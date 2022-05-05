@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "Junior Matlou",
+  "classifications": [ "WebApi", "Web", "Mobile", "MVC", "Blazor" ],
+  "identity": "Response.Wrapper.Lib",
+  "name": "ResponseWrapper01",
+  "description": "This package is used to wrap response object with commonly used properties.",
+  "sourceName": "ResponseWrapper01",
+  "shortName": "responseWrp",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

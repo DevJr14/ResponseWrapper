@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Response.Wrapper.Lib</id>
+    <title>API Response Wrapper </title>
+    <version>0.0.1-rc</version>
+    <authors>Junior Matlou</authors>
+    <description>
+      Response wrapper library with common reponse properties from api to any client.
+    </description>
+    <language>en-US</language>
+    <license type="expression">MIT</license>
+    <copyright>2022</copyright>
+    <projectUrl>https://cadiahk/libs</projectUrl>
+    <repository type="git" url="https://github.com/cadiahk/libs.git" branch="master" />
+    <packageTypes>
+      <packageType name="Library" />
+    </packageTypes>
+    <tags>webapi mobile blazor</tags>
+  </metadata>
+  <files>
+    <file src=".\**" target="content" exclude="**\bin\**;**\obj\**;**\.git\**;**\.github\**;**\*.user;**\.vs\**;**\Images\**;**\Logs\**" />
+  </files>
+</package>
